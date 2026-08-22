@@ -1,7 +1,7 @@
 # CodeAlpha Stock Trading Platform
 
 **Author:** Harshita Mourya | B.Tech CSE, Technocrats Institute of Technology, Bhopal (2nd Year)
-**Internship:** CodeAlpha Java Programming Internship — Task 2
+**Internship:** CodeAlpha Java Programming Internship — Task 1
 
 A console-based Java simulation of a basic stock trading environment.
 I picked this task first because it needed the most OOP practice — modeling
