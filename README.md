@@ -1,7 +1,6 @@
-# CodeAlpha Stock Trading Platform
+# Stock Trading Platform
 
 **Author:** Harshita Mourya | B.Tech CSE, Technocrats Institute of Technology, Bhopal (2nd Year)
-**Internship:** CodeAlpha Java Programming Internship — Task 1
 
 A console-based Java simulation of a basic stock trading environment.
 I picked this task first because it needed the most OOP practice — modeling
@@ -31,7 +30,7 @@ java Main
 
 ## Project Structure
 ```
-CodeAlpha_StockTradingPlatform/
+/StockTradingPlatform/
 ├── Stock.java         # Represents a tradable stock
 ├── Market.java         # Simulates live market data
 ├── Transaction.java   # Represents a buy/sell transaction
@@ -61,5 +60,4 @@ than I own" or "what if price goes below a rupee" — small things but they
 made the buy/sell logic more solid.
 
 ---
-Built for the **CodeAlpha Java Programming Internship**.
-Harshita Mourya, B.Tech CSE, Technocrats Institute of Technology, Bhopal
+Built by Harshita Mourya, B.Tech CSE, Technocrats Institute of Technology, Bhopal
